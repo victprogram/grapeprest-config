@@ -3,9 +3,10 @@
     "GPA.3319-8780-5788-31919",
     "TEST_1772638802877",
     "TEST_GITHUB_1772640255006",
-    "DIAGNOSTIC_TEST_1772640564582"
+    "DIAGNOSTIC_TEST_1772640564582",
+    "TEST_APP_1772639779386"
   ],
-  "last_updated": "2026-03-04T16:09:24.747Z",
+  "last_updated": "2026-03-04T16:20:25.132Z",
   "version": "1.0",
   "min_app_version": "1.30",
   "description": "Lista de OrderIds reembolsados bloqueados por GrapePrest"
