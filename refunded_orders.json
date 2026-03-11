@@ -1,7 +1,8 @@
 {
   "refunded_orders": [
+    "GPA.3319-8780-5788-31919"
   ],
-  "last_updated": "2026-03-06T13:42:21.787Z",
+  "last_updated": "2026-03-11T16:26:22.797Z",
   "version": "1.0",
   "min_app_version": "1.30",
   "description": "Lista de OrderIds reembolsados bloqueados por GrapePrest"
